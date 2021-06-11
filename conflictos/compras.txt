@@ -2,3 +2,4 @@ Debemos comprar para navidad:
  - Vino
  - Galletas
  - comida
+modificando el archivo compras
